@@ -12,7 +12,7 @@ The web page only shows up-coming/current detection site deployments.
 # Plan
 ## Phase 1 - Basics: Wrangling, Downloading, and Parsing
 Get the base functionality working
-- [ ] Download the PDF containing the most-recent locations
+- [ ] Download the PDF containing the most recent locations
 - [ ] Parse the table in the PDF to CSV (including information on direction and names of highways, if included)
 ## Phase 2 - Simple Automation
 - [ ] Run all basic functionality automatically (Github Actions?)
